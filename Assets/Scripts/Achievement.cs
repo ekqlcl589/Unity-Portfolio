@@ -8,7 +8,7 @@ public class Achievement : MonoBehaviour
 
     private List<AchievementsManager.Achievements> achievements = new List<AchievementsManager.Achievements>();
 
-    public static Achievement instance;
+    private static Achievement instance;
 
     public delegate void OnSlotCountChange(int value);
     public OnSlotCountChange onSlotCountChange;

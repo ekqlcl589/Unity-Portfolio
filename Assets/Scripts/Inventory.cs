@@ -24,7 +24,7 @@ public class Inventory : MonoBehaviour
     public delegate void OnDeleteItem(int value);
     public OnDeleteItem onDeleteItem;
 
-    public static Inventory instance;
+    private static Inventory instance;
     public List<Item> Items
     {
         get => items;
