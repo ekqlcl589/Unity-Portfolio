@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LanguageData Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LanguageData
+  m_TableCollectionNameGuidString: c532d37f2ee30fe459623fe6867ddf26
+  m_Entries:
+  - m_Id: 122112012288
+    m_Key: option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29242678145024
+    m_Key: gameEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814858473472
+    m_Key: inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1342819632508928
+    m_Key: Achievemented
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344464848252928
+    m_Key: cook list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344764858429440
+    m_Key: food 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344913622003712
+    m_Key: food 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345046820515840
+    m_Key: food 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2124505223884800
+    m_Key: ach kill1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2124805447970816
+    m_Key: ach food1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125093210779648
+    m_Key: ach cook1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125319921299456
+    m_Key: ach kill10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125502847479808
+    m_Key: ach day3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125731604819968
+    m_Key: ach day7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125910152146944
+    m_Key: ach specialFood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2126075114123264
+    m_Key: ach sunKill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2126330832449536
+    m_Key: ach safeHouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705102287335424
+    m_Key: ach Ui Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705320554721280
+    m_Key: ach Ui ack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705428482551808
+    m_Key: ach Ui Cook
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3705590516903936
+    m_Key: ach Ui Option
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1737325161669722136
+  references:
+    version: 2
+    RefIds:
+    - rid: 1737325161669722136
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1722509034893
